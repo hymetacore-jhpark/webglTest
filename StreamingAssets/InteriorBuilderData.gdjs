@@ -1,6 +1,6 @@
 {
 	"ToolsVersion": "2020.1.1.0",
-	"ChangeNumber": 274,
+	"ChangeNumber": 276,
 	"Collections": {
 		"Entity": [
 			{
@@ -280,7 +280,7 @@
 						"Requirement": 0,
 						"ReferenceType": null,
 						"Size": 4,
-						"Specifications": "pick.Bed=1&pick.Sofa=2&pick.Dressroom=3&pick.Storage=4&pick.Desk=5&pick.Shelf=6&pick.Chair=7&pick.Mirror=8&pick.Appliance=9&pick.Light=10&pick.Deco=11&pick.Living=12"
+						"Specifications": "pick.Bed=1&pick.Sofa=2&pick.Dressroom=3&pick.Storage=4&pick.Desk=5&pick.Shelf=6&pick.Chair=7&pick.Mirror=8&pick.Appliance=9&pick.Light=10&pick.Deco=11&pick.Living=12&pick.Gallery=13"
 					},
 					{
 						"Id": "806d006495f2a75d05000038",
@@ -943,6 +943,13 @@
 						"Type": "cook",
 						"Name": "요리"
 					}
+				]
+			},
+			{
+				"Id": 21,
+				"Folder": 13,
+				"Name": "갤러리",
+				"Sub": [
 				]
 			}
 		],
